@@ -19,7 +19,11 @@
 	<section id="contenido">
 		<h1>usando html5 + css</h1>
 		<img src="img/henry.jpg" alt="debe ir la foto de henry">
-		<a href="https://github.com/janyx985/tarea2ayudantia.git">código en github</a>
+		<p>henry sepulveda navarro
+		<br>Fecha nac: 01 de julio
+		<br>Estudiante de Ingenieria Civil en Computacion mencion Informatica
+		</p>
+		<a href="http://www.github.com">código en github</a>
 	</section>
 	<footer>
 		<?php
