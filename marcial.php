@@ -19,7 +19,8 @@
 	<section id="contenido">
 		<h1>usando html5 + css</h1>
 		<img src="img/otro.jpg" alt="debe ir la foto de marcial">
-		<a href="https://github.com/janyx985/tarea2ayudantia.git">código en github</a>
+		<p>Marcial Jara Vega</p>
+		<a href="http://www.github.com">código en github</a>
 	</section>
 	<footer>
 		<?php
