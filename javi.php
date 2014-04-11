@@ -19,7 +19,10 @@
 	<section id="contenido">
 		<h1>usando html5 + css</h1>
 		<img src="img/ale.jpg" alt="debe ir la foto de alejandra">
-		<p>alejandra muñoz</p>
+		<p>Alejandra Muñoz Barria
+		<br>Fecha nac: 26 de enero
+		<br>Estudiante de Ingenieria Informatica
+		</p>
 		<a href="http://www.github.com">código en github</a>
 	</section>
 	<footer>
