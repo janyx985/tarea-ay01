@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>		<!--se carga antes que la página en sí misma-->
 	<meta charset="utf-8"/>
