@@ -19,7 +19,7 @@
 	<section id="contenido">
 		<h1>usando html5 + css</h1>
 		<img src="img/logo-utem.jpg" alt="debe ir el logo de la U">
-		<a href="http://www.github.com">código en github</a>
+		<a href="https://github.com/janyx985/tarea2ayudantia.git">código en github</a>
 	</section>
 	<footer>
 		<?php
