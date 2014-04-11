@@ -19,7 +19,7 @@
 	<section id="contenido">
 		<h1>usando html5 + css</h1>
 		<img src="img/henry.jpg" alt="debe ir la foto de henry">
-		<p>henry sepulveda navarro
+		<p>Henry Sepulveda Navarro
 		<br>Fecha nac: 01 de julio
 		<br>Estudiante de Ingenieria Civil en Computacion mencion Informatica
 		</p>
