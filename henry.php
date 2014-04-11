@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>		<!--se carga antes que la página en sí misma-->
@@ -20,7 +19,7 @@
 	<section id="contenido">
 		<h1>usando html5 + css</h1>
 		<img src="img/henry.jpg" alt="debe ir la foto de henry">
-		<a href="http://www.github.com">código en github</a>
+		<a href="https://github.com/janyx985/tarea2ayudantia.git">código en github</a>
 	</section>
 	<footer>
 		<?php
