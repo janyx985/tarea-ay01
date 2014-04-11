@@ -19,7 +19,10 @@
 	<section id="contenido">
 		<h1>usando html5 + css</h1>
 		<img src="img/otro.jpg" alt="debe ir la foto de marcial">
-		<p>Marcial Jara Vega</p>
+		<p>Marcial Jara Vega
+		<br>Fecha nac: 14 de abril
+		<br>Estudiante de Ingenieria Informatica
+		</p>
 		<a href="http://www.github.com">código en github</a>
 	</section>
 	<footer>
